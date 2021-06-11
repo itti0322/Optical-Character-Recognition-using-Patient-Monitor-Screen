@@ -5,7 +5,7 @@ This project is about using image processing techniques to implement the object 
 # Implementation Roadmap
 The idea is to be able to plug-in any state-of-the-art OCR model to better fit convert the required data of patient monitor screens into text form. Complete algorithm is shown below:
 
-![alt text](https://drive.google.com/file/d/19E4B1qsm7xs5AcWBDd5f8h71pvYJoQOJ/view?usp=sharing)
+![alt text](Algorithm overview.jpg)
 
 
 # Folders & Files description:
