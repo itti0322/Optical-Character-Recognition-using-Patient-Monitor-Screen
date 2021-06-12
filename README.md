@@ -60,7 +60,7 @@ This project is based on researches/codes from several papers/open-source reposi
 This is an open source project and could be use further for reaserach work under the reference given below:
 
 **Author:** Bukhari, Syed Irtza Akhtar.\
-**Year:**2021\
+**Year:** 2021\
 **Title:** 'Optical Character Recognition from Patient Monitor Screen'.\
 **Level of Thesis:** Masters\
 **University:** University of Stavanger\
