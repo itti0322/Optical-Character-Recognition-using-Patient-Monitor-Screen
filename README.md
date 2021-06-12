@@ -1,6 +1,6 @@
 # Optical Character Recognition Using Patient Monitor Screen 
 #
-This project is about using image processing techniques to implement the object character recognition model to convert different patient records located in monitor screen into text form and store it in a dataframe format. 
+This project is about using image processing techniques to implement the optical character recognition model to convert different patient records located in monitor screen into text form and store it in a dataframe format. 
 
 # Implementation Roadmap
 The idea is to be able to plug-in any state-of-the-art OCR model to better fit convert the required data of patient monitor screens into text form. Complete algorithm is shown below:
