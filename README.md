@@ -5,7 +5,7 @@ This project is about using image processing techniques to implement the object 
 # Implementation Roadmap
 The idea is to be able to plug-in any state-of-the-art OCR model to better fit convert the required data of patient monitor screens into text form. Complete algorithm is shown below:
 
-https://github.com/itti0322/Optical-Character-Recognition-using-Patient-Monitor-Screen/blob/main/Algorithm%20overview.jpg
+![Screenshot]https://github.com/itti0322/Optical-Character-Recognition-using-Patient-Monitor-Screen/blob/main/Algorithm%20overview.jpg
 
 
 # Folders & Files description:
