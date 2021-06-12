@@ -2,6 +2,8 @@
 #
 This project is about using image processing techniques to implement the optical character recognition model to convert different patient records located in monitor screen into text form and store it in a dataframe format. 
 
+![Screenshot](https://github.com/itti0322/Optical-Character-Recognition-using-Patient-Monitor-Screen/blob/main/pm.gif)
+
 # Implementation Roadmap
 The idea is to be able to plug-in any state-of-the-art OCR model to better fit convert the required data of patient monitor screens into text form. Complete algorithm is shown below:
 
