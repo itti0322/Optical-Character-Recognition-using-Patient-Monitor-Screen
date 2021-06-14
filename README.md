@@ -11,7 +11,7 @@ The idea is to be able to plug-in any state-of-the-art OCR model to better fit c
 
 
 # Folders & Files description:
-* Code Files
+* Python Files
     * libraries.py : Imports Useful Libraries used in a project.
     * getFrame.py : Asks user to load video and convert video frames in the form of images.
     * pre-process.py : Pre-processing steps including HSV conversion and Color Masking.
