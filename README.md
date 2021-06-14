@@ -52,6 +52,7 @@ After setting up the parameters and mentioned file paths, run the main.py file. 
 reader = easyocr.Reader(['en'], gpu = False)
 ```
 
+
 # Acknowledgement
 This project is based on researches/codes from several papers/open-source repositories.
 
