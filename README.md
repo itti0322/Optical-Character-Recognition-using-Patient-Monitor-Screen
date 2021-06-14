@@ -23,7 +23,9 @@ The idea is to be able to plug-in any state-of-the-art OCR model to better fit c
 * Images
     * Frames extracted from video input file
 * Output
-    * values stored in the form of .csv file. 
+    * values stored in the form of .csv file.
+* Jupter Notebook
+   * Jupyter Notebook files explaining every step with comments and editable different paths and color masking parameters for further future use according to own datasets  
 
 # Requirements
 The code for the OCR from Patient Monitor screen needs to be downloaded from [this repository]() and extracted into the folder. A sample video is also located in a video folder.
